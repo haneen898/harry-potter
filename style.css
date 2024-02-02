@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:url(harry.jpeg) ;
+    background-size: cover;
+}
+table , tr,th {
+    padding: 5px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid #ddd;
+    text-align: center;
+    background-color: rgb(86, 135, 138);
+}
+table{
+    border-collapse: collapse;
+    width: 40%;
+
+}
+tr, td{
+    padding: 10px;
+    background-color: rgb(247, 239, 229);
+}
